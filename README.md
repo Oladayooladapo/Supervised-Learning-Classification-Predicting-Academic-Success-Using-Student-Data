@@ -1,0 +1,2 @@
+# StudenSupervised-Learning-Classification-Predicting-Academic-Success-Using-Student-Data
+Applying supervised machine learning to predict student academic performance based on a rich dataset encompassing academic habits, extracurricular participation, and parental involvement. The insights aim to empower educators and policymakers with data-driven strategies for supporting diverse learning needs and improving academic outcomes.
